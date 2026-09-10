@@ -1,0 +1,12 @@
+[
+  {
+    "id": "t1",
+    "name": "Acme",
+    "plan": "pro"
+  },
+  {
+    "id": "t2",
+    "name": "Globex",
+    "plan": "starter"
+  }
+]

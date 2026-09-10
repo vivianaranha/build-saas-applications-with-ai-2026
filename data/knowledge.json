@@ -1,0 +1,12 @@
+[
+  {
+    "id": "d1",
+    "tenant": "t1",
+    "text": "Acme refund policy allows refunds within 30 days."
+  },
+  {
+    "id": "d2",
+    "tenant": "t2",
+    "text": "Globex support hours are Monday through Friday."
+  }
+]
